@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ebishoff
 - 👀 I’m interested in machine learning, data science, computer vision, adversarial machine learning, natural language processing, etc.
 - 🌱 I’m currently learning everything I can on data science.
-- 💞️ I’m looking to collaborate on anything!
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me: Email-ebishoff93@yahoo.com LinkedIn-https://www.linkedin.com/in/elise-bishoff/
 
 <!---
